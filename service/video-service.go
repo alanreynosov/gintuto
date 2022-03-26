@@ -1,6 +1,6 @@
 package service	
 
-import "github.co/alanreynosov/go-microservices/entity"
+import "github.co/alanreynosov/gintuto/entity"
 
 type VideoService interface {
 	Save(entity.Video) entity.Video

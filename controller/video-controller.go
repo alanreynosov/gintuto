@@ -2,8 +2,8 @@ package controller
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/alanreynosov/go-microservices/entity"
-	"github.com/alanreynosov/go-microservices/service"
+	"github.com/alanreynosov/gintuto/entity"
+	"github.com/alanreynosov/gintuto/service"
 )
 
 type VideoCotroller interface {

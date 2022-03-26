@@ -1,4 +1,4 @@
-module github.com/alanreynoso/gintuto
+module github.com/alanreynosov/gintuto
 
 go 1.18
 
